@@ -1,0 +1,10 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} Desenvolvido por: Rafael Moraes Valentim = rmoraesvalentim@gmail.com
+${licensePrefix} Jogo desenvolvido durante a realização do Trabalho de Conclusão de Curso
+${licensePrefix} no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus São João da Boa Vista
+${licensePrefix} como requisito para a obtenção do título de Tecnologo em Sistemas para Internet
+<#if licenseLast??>
+${licenseLast}
+</#if>
